@@ -1,0 +1,23 @@
+.form{
+    border:0px solid blue;
+    
+}
+.form-group{
+    font-weight:bolder;
+    font-size: 20px;
+}
+.formsearch{
+    width:700px !important;
+    padding-right: 40px !important;
+}
+.text{
+    margin-top: 10px !important;
+    font-size: 40px;
+}
+.form-control{
+    border:1px solid green !important;
+}
+.nav{
+    color:white !important;
+    
+}
